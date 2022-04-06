@@ -2,7 +2,7 @@
 
 
 ### File description
-'GAN superresolution Phase 2' : SR GAN model for training and testing low resolution undersampled MRI to high resolution
+'GAN superresolution Phase 2.ipynb' : SR GAN model for training and testing low resolution undersampled MRI to high resolution
 
 If you are using our code for your research Please cite 
 
