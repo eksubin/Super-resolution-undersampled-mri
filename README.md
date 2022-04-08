@@ -2,7 +2,9 @@
 
 
 ### File description
-`GAN superresolution Phase 2.ipynb` : SR GAN model for training and testing low resolution undersampled MRI to high resolution
+
+`modl_training_pipeline.ipynb` : MoDL network for training and testing low resolution undersampled MRI to dealiased and denoised low resolution
+`GAN superresolution Phase 2.ipynb` : SR GAN model for training and testing low resolution MRI to high resolution
 
 Our code is based on the following research articles
 
