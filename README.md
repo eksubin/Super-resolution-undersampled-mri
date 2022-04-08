@@ -9,7 +9,7 @@
 
 Link for the dataset to run MoDL: https://iowa-my.sharepoint.com/:f:/g/personal/moalam_uiowa_edu/EtTkM9rA1TtApSuhJ96eJTEBVY6je8vuf4elCQBLCiqVRQ?e=VxrHrO
 
-*How to run the code*
+### How to run the code
 
 Step 1 : Setup the enviornment for the MoDL (MoDL.yml)
 
