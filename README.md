@@ -10,13 +10,15 @@
 Link for the dataset to run MoDL: https://iowa-my.sharepoint.com/:f:/g/personal/moalam_uiowa_edu/EtTkM9rA1TtApSuhJ96eJTEBVY6je8vuf4elCQBLCiqVRQ?e=VxrHrO
 
 *How to run the code*
+
 Step 1 : Setup the enviornment for the MoDL (MoDL.yml)
 Step 2 : Run the modl training pipeline with essential dataset
 Step 3 : Extract MoDL output and save it as a file folder
 Step 4 : Setup envioronment for the SRResnet ( SRResEnv.yml)
 Step 5 : Run the Gan superreolution phase 2 notebook for training and testing the images.
 
-Our code is based on the following research articles
+
+*Our code is based on the following research articles*
 
 1. Xu, Yang, et al. "Hyperspectral images super-resolution via learning high-order coupled tensor ring representation." IEEE transactions on neural networks and learning systems 31.11 (2020): 4747-4760.
 2. Chen, Yuhua, et al. "Brain MRI super resolution using 3D deep densely connected neural networks." 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018). IEEE, 2018.
