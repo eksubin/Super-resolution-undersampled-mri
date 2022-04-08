@@ -12,9 +12,13 @@ Link for the dataset to run MoDL: https://iowa-my.sharepoint.com/:f:/g/personal/
 *How to run the code*
 
 Step 1 : Setup the enviornment for the MoDL (MoDL.yml)
+
 Step 2 : Run the modl training pipeline with essential dataset
+
 Step 3 : Extract MoDL output and save it as a file folder
+
 Step 4 : Setup envioronment for the SRResnet ( SRResEnv.yml)
+
 Step 5 : Run the Gan superreolution phase 2 notebook for training and testing the images.
 
 
